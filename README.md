@@ -1,4 +1,4 @@
-# MNIST--TF-Keras
+# MNIST- TF/Keras
 Tensoflow and Keras implementation for MNIST dataset
 
  
