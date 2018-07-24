@@ -2,7 +2,7 @@
 - 28x28 images of handwritten numbers
 - output is value between 0-9 
 
-#### Tensoflow and Keras implementation for MNIST dataset
+#### MultiLayer Perceptron and CNN implementation using Tensoflow and Keras
 
  
 ## Tensorflow
