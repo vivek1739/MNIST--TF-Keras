@@ -14,7 +14,7 @@
 4. Input : relu512 - dropout-relu128 - dropout-sigmoid
 
 
-## Keras
+## Keras - MLP
 
 1. MLP + sigmoid activation + SGD optimizer 
 2. MLP + Sigmoid activation + ADAM
@@ -23,3 +23,12 @@
 5. MLP + Batch - Norm on hidden layers + Adam optimizer
 6. MLP + dropout + Adam
 7. Hyper-parameter tuning of Keras models using Sklearn
+
+## Keras - Basic CNN
+1. model with filter size 3x3
+
+## Keras - CNN Variations
+1. filter size 3x3
+2. filter size 2x2
+3. filter size 5x5 
+- all the loss plots for basic and complex networks.
