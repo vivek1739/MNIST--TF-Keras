@@ -1,5 +1,8 @@
-# MNIST- TF/Keras
-Tensoflow and Keras implementation for MNIST dataset
+# MNIST
+- 28x28 images of handwritten numbers
+- output is value between 0-9 
+
+#### Tensoflow and Keras implementation for MNIST dataset
 
  
 ## Tensorflow
